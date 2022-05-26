@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    align-items: center;
+    padding: 0px 300px;
+    margin: 0px;
+}
+
+.htext {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    font-family: roboto, sans-serif;
+}
+
+.hlinks {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left: auto;
+    gap: 40px;
+    font-family: roboto, sans-serif;
+    list-style: none;
+}
+
+
+
