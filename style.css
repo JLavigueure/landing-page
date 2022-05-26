@@ -13,7 +13,7 @@ box-sizing: border-box;
 }
 
 .text {
-    font-family: roboto, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 /* header content */
@@ -48,7 +48,7 @@ box-sizing: border-box;
     display: flex;
     background-color: #1F2937;
     padding: 170px 15vw;
-    gap: 10vw;
+    gap: 5vw;
 }
 
 .herotext {
@@ -69,8 +69,8 @@ box-sizing: border-box;
     font-size: 18px;
     color: #e5e7eb;
     font-weight: normal;
-    margin-top: 10px;
-    line-height: 1.6em;
+    margin-top: 7px;
+    line-height: 1.2em;
 }
 
 button.hero {
@@ -103,8 +103,9 @@ color: #e5e7eb;
 .random {
     display: flex;
     flex-direction: column;
-    margin: 0px 180px;
+    margin: 70px 180px;
     background-color: white;
+    margin-bottom: 120px;
 }
 
 .rtext {
@@ -112,7 +113,7 @@ color: #e5e7eb;
     font-weight: 900;
     color: #1F2937;
     align-self: center;
-    margin: 40px 0px;
+    margin-bottom: 40px;
 }
 
 .boxes {
@@ -120,7 +121,6 @@ color: #e5e7eb;
     display: flex;
     margin-left: 150px;
     margin-right: 150px;
-    gap: 0px;
 }
 
 .box {
@@ -133,8 +133,8 @@ color: #e5e7eb;
     background-color: rgb(255, 255, 255);
     border: 5px solid #3882F6;
     height: 180px;
-    width: 180px;
-    margin: 5px 30px;
+    width: 170px;
+    margin: 5px 40px;
     border-radius: 30px;
 }
 
